@@ -1,10 +1,11 @@
 {
   "name": "roberty",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "author": "Valore Brasil",
   "description": "Placeholder for npm Roberty package.",
   "homepage": "https://roberty.app",
   "main": "index.js",
+  "license": "ISC",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/valorebrasil/roberty.git"
