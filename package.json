@@ -1,18 +1,15 @@
 {
   "name": "roberty",
   "version": "0.0.0",
+  "author": "Valore Brasil",
   "description": "Placeholder for npm Roberty package.",
+  "homepage": "https://roberty.app",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/valorebrasil/roberty.git"
   },
-  "author": "Valore Brasil",
-  "bugs": {
-    "url": "https://github.com/valorebrasil/roberty/issues"
-  },
-  "homepage": "https://github.com/valorebrasil/roberty#readme"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
